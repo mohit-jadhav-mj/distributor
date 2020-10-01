@@ -12,16 +12,16 @@ _Note:_ The latest stable version of the plugin is the _stable_ branch. [Downloa
 
 ## Table of Contents
 * [Features](#features)
-  * [Gutenberg Support](#gutenberg-support-beta)
+*   [Gutenberg Support](#gutenberg-support-beta)
 * [Requirements](#requirements)
 * [Installation](#installation)
-  * [Registration](#registration)
-  * [Setup External Connections](#setup-external-connections-using-application-passwords)
+*   [Registration](#registration)
+*   [Setup External Connections](#setup-external-connections-using-application-passwords)
 * [Known Caveats/Issues](#known-caveatsissues)
 * [Developers](#developers)
-  * [Running Locally](#running-locally)
-  * [Testing](#testing)
-  * [Debugging](#debugging)
+*    [Running Locally](#running-locally)
+*    [Testing](#testing)
+*    [Debugging](#debugging)
 * [Changelog](#changelog)
 * [Contributing](#contributing)
 
@@ -66,7 +66,7 @@ You can upload and install the archived (zip) plugin via the WordPress dashboard
 
 To help inform our roadmap, keep adopters apprised of major updates and changes that could impact their websites, and solicit opportunities for beta testing and feedback, we’re asking for a little bit of information in exchange for a free key that unlocks update notifications and 1-click upgrades inside the WordPress dashboard. Your information is kept confidential. You can [register here](https://distributorplugin.com/#cta) and input your key in Distributor settings in the dashboard (network dashboard for multisite users).  Note that you need to input the email address you used to register Distributor (included in the email with your registration key) as that is linked to the registration key.
 
-### Setup External Connections using Application Passwords
+### Setup External Connections Using Application Passwords
 
 1. Ensure Distributor is installed on BOTH sites being connected.  We'll refer to these as mainsite.com and remotesite.com.
 2. On mainsite.com, navigate to `Distributor` > `External Connections` and click `Add New`.
@@ -77,7 +77,7 @@ To help inform our roadmap, keep adopters apprised of major updates and changes 
 
 ## Support Level
 
-**Active:** 10up is actively working on this, and we expect to continue work for the foreseeable future including keeping tested up to the most recent version of WordPress.  Bug reports, feature requests, questions, and pull requests are welcome.
+** Active: ** 10up is actively working on this, and we expect to continue work for the foreseeable future including keeping tested up to the most recent version of WordPress.  Bug reports, feature requests, questions, and pull requests are welcome.
 
 ## Known Caveats/Issues
 
